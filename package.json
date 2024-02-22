@@ -1,0 +1,17 @@
+{
+  "name": "ovh-documentation-links",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Grab all the OVHcloud website documentations links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yann Lojewski <yann.lojewski.ext@ovhcloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "commander": "^12.0.0",
+    "playwright": "^1.41.2"
+  }
+}
