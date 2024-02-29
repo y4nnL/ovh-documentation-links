@@ -12,7 +12,7 @@ export const OVH_API_SCHEMA_ENDPOINTS = [
 ];
 
 export const SUBSIDIARY_MAP = {
-  WE: "worldeuro",
+  WE: "world",
   EU: "worldeuro",
   WS: "es",
   ES: "es-es",
